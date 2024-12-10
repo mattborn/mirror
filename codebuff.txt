@@ -1,0 +1,1 @@
+create a vanilla HTML project in /mirror with index.html, scripts.js, and styles.css that requests access to camera and simply displays that stream in a rounded full screen box with 1rem of padding all around, keep the code as minimal as possible
